@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.codehaus.groovy.eclipse;singleton:=true
+Bundle-Name: Groovy-Eclipse
+Bundle-Version: 2.9.2.xx-201801051705-e46-RELEASE
+Archiver-Version: Plexus Archiver
+Built-By: bamboo
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Codehaus.org
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_144
+
+Name: about.properties
+SHA-256-Digest: IKq8rPcpGb54IwTNBDmMIozsVJxup51mAkWV625jKPc=
+
+Name: groovy16.png
+SHA-256-Digest: byK5Ko9Z3qKIG6phZwNZKZ4tWU2C+B8U6l0aj6p5xy8=
+
+Name: about.html
+SHA-256-Digest: Zou0npn0qfCKRVjTOWfvcsgizJAClCvpMWgr81tFdag=
+
+Name: META-INF/maven/org.codehaus.groovy.eclipse/org.codehaus.groovy.e
+ clipse/pom.xml
+SHA-256-Digest: stlE/0gvjU8LOB5F7/aN+IuDauqc5VIahAeoCZcyzpk=
+
+Name: META-INF/maven/org.codehaus.groovy.eclipse/org.codehaus.groovy.e
+ clipse/pom.properties
+SHA-256-Digest: XCYqdVm5kSQ/capsfVeXPOwm/zxjrYbSJJ3k3gK0J0A=
+
+Name: about.ini
+SHA-256-Digest: vIfifa7WwlvBFrgYU0VGeHXJyYeVGq1Mwx6zz+MxBFk=
+
+Name: groovy32.png
+SHA-256-Digest: OE2p4H6xmwYl0HXOINY8g8ooZsvKbNJMzkYS34gFTTA=
+
+Name: groovy.png
+SHA-256-Digest: htQRbifW21gkQFz9VskwbgVnUk3KhHWR3DxrcBo4jZ0=
+

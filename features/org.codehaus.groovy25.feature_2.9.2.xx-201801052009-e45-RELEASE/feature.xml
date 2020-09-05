@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feature
+      label="%featureName"
+      version="2.9.2.xx-201801052009-e45-RELEASE"
+      provider-name="%providerName"
+      id="org.codehaus.groovy25.feature"
+      plugin="org.codehaus.groovy.eclipse">
+
+   <description url="%descriptionURL">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="license.html">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="org.apache.ant"/>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.junit"/>
+   </requires>
+
+   <plugin
+         id="org.codehaus.groovy"
+         download-size="20125"
+         install-size="21764"
+         version="2.5.0.xx-201801052009-e45-RELEASE"
+   />
+
+   <plugin
+         id="org.codehaus.groovy.eclipse"
+         download-size="16"
+         install-size="19"
+         version="2.9.2.xx-201801052009-e45-RELEASE"
+   />
+
+</feature>

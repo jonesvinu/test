@@ -1,0 +1,162 @@
+Manifest-Version: 1.0
+Export-Package: groovy.beans,groovy.grape,groovy.inspect,groovy.inspec
+ t.swingui,groovy.io,groovy.jmx.builder,groovy.json,groovy.json.intern
+ al,groovy.lang,groovy.mock.interceptor,groovy.model,groovy.security,g
+ roovy.servlet,groovy.sql,groovy.swing,groovy.swing.binding,groovy.swi
+ ng.factory,groovy.swing.impl,groovy.test,groovy.text,groovy.text.mark
+ up,groovy.time,groovy.transform,groovy.transform.builder,groovy.trans
+ form.stc,groovy.ui,groovy.ui.icons,groovy.ui.text,groovy.ui.view,groo
+ vy.util,groovy.util.logging,groovy.util.slurpersupport,groovy.xml,gro
+ ovy.xml.dom,groovy.xml.streamingmarkupsupport,groovyjarjarantlr,groov
+ yjarjarasm.asm,org.codehaus.greclipse,org.codehaus.groovy,org.codehau
+ s.groovy.activator,org.codehaus.groovy.ant,org.codehaus.groovy.antlr,
+ org.codehaus.groovy.antlr.java,org.codehaus.groovy.antlr.parser,org.c
+ odehaus.groovy.antlr.treewalker,org.codehaus.groovy.ast,org.codehaus.
+ groovy.ast.builder,org.codehaus.groovy.ast.expr,org.codehaus.groovy.a
+ st.stmt,org.codehaus.groovy.ast.tools,org.codehaus.groovy.binding,org
+ .codehaus.groovy.bsf,org.codehaus.groovy.classgen,org.codehaus.groovy
+ .classgen.asm,org.codehaus.groovy.classgen.asm.indy,org.codehaus.groo
+ vy.classgen.asm.sc,org.codehaus.groovy.cli,org.codehaus.groovy.contro
+ l,org.codehaus.groovy.control.customizers,org.codehaus.groovy.control
+ .customizers.builder,org.codehaus.groovy.control.io,org.codehaus.groo
+ vy.control.messages,org.codehaus.groovy.eclipse,org.codehaus.groovy.g
+ roovydoc,org.codehaus.groovy.jsr223,org.codehaus.groovy.plugin,org.co
+ dehaus.groovy.reflection,org.codehaus.groovy.reflection.android,org.c
+ odehaus.groovy.reflection.stdclasses,org.codehaus.groovy.reflection.v
+ 7,org.codehaus.groovy.runtime,org.codehaus.groovy.runtime.callsite,or
+ g.codehaus.groovy.runtime.dgmimpl,org.codehaus.groovy.runtime.dgmimpl
+ .arrays,org.codehaus.groovy.runtime.m12n,org.codehaus.groovy.runtime.
+ memoize,org.codehaus.groovy.runtime.metaclass,org.codehaus.groovy.run
+ time.powerassert,org.codehaus.groovy.runtime.typehandling,org.codehau
+ s.groovy.runtime.wrappers,org.codehaus.groovy.syntax,org.codehaus.gro
+ ovy.testng,org.codehaus.groovy.tools,org.codehaus.groovy.tools.ast,or
+ g.codehaus.groovy.tools.groovydoc,org.codehaus.groovy.tools.groovydoc
+ .gstringTemplates,org.codehaus.groovy.tools.groovydoc.gstringTemplate
+ s.classLevel,org.codehaus.groovy.tools.groovydoc.gstringTemplates.pac
+ kageLevel,org.codehaus.groovy.tools.groovydoc.gstringTemplates.topLev
+ el,org.codehaus.groovy.tools.gse,org.codehaus.groovy.tools.javac,org.
+ codehaus.groovy.tools.shell,org.codehaus.groovy.tools.shell.commands,
+ org.codehaus.groovy.tools.shell.completion,org.codehaus.groovy.tools.
+ shell.util,org.codehaus.groovy.tools.xml,org.codehaus.groovy.transfor
+ m,org.codehaus.groovy.transform.sc,org.codehaus.groovy.transform.sc.t
+ ransformers,org.codehaus.groovy.transform.stc,org.codehaus.groovy.tra
+ nsform.tailrec,org.codehaus.groovy.transform.trait,org.codehaus.groov
+ y.util,org.codehaus.groovy.vmplugin,org.codehaus.groovy.vmplugin.v5,o
+ rg.codehaus.groovy.vmplugin.v6,org.codehaus.groovy.vmplugin.v7
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: eclipse-trace.jar,groovy-eclipse.jar,lib/bsf-2.4.0.j
+ ar,lib/ivy-2.4.0.jar,lib/groovy-all-2.4.13.jar
+Built-By: bamboo
+Eclipse-BundleShape: dir
+Bundle-Name: Groovy
+Created-By: Apache Maven 3.1.1
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.core.runtime,org.apache.ant;resolution:=op
+ tional,org.junit;resolution:=optional
+Bundle-Vendor: Codehaus.org
+Build-Jdk: 1.7.0_80
+Bundle-Version: 2.4.13.xx-201801052009-e45-RELEASE
+Eclipse-BuddyPolicy: registered
+Bundle-Activator: org.codehaus.groovy.activator.GroovyActivator
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.codehaus.groovy
+Archiver-Version: Plexus Archiver
+
+Name: lib/groovy-all-2.4.13-sources.jar
+SHA-256-Digest: 30KgsUnrFE0KUGeDvvfgcpx+kKTGNfVHqPlkQxxz7YA=
+
+Name: plugin_dsld_support/dsld/groovy.dsld
+SHA-256-Digest: FuBJ4iqC27vGd28htpityVBe9xYHpaFEoFcLhe0ESs4=
+
+Name: about_files/jline2-license.txt
+SHA-256-Digest: FKCJ4PS/VDsz3g4Z4YQvGtZ3kkF2K7vOO6MsaLK+Znc=
+
+Name: about_files/jsr223-license.txt
+SHA-256-Digest: tB7TPQGjnfeopaIKAMH/SprD0yP8ICb4GEc3VWvfSFU=
+
+Name: plugin_dsld_support/dsld/logging.dsld
+SHA-256-Digest: BEuOYbnqiefYXZXG495BYDg+fO1JrgFRLLQ0gSLkihY=
+
+Name: plugin_dsld_support/dsld/autoExternalize.dsld
+SHA-256-Digest: sNKYC0yvq5wDErURMzksJ+0YUbDmBQhyj+4KGIQEvwA=
+
+Name: extras/groovyReset.jar
+SHA-256-Digest: rd/wCTL0wQhtALrPAk6n8pshHiiUSQgPcq4kemRk2IU=
+
+Name: about_files/asm-license.txt
+SHA-256-Digest: 5ZJ2qIe9ZNZeQcqv3wr16I29KGY7CnKyTVIsAox4QRU=
+
+Name: VERSION
+SHA-256-Digest: cXhYvZWex2NotpizC5s7EVDF+QCbeqB5M9pU/50Fm70=
+
+Name: plugin_dsld_support/dsld/bindable.dsld
+SHA-256-Digest: Gj7MtsVlbnQODJgPHQp9LVklDy1Mh3p1jyBGa6KiIkY=
+
+Name: about.html
+SHA-256-Digest: z+45ST/pFjFECpzgjrnzyz+ntzaOKEh6E8Jro/n5tPM=
+
+Name: groovy-eclipse.jar
+SHA-256-Digest: 4j2wQJfcaEfDvn5O/a5XuY534OBIWIuF+DNcbC9kVhQ=
+
+Name: lib/ivy-2.4.0-sources.jar
+SHA-256-Digest: lu+5lJ6JOnNJph8Wpyzm4qETl58g2Ne4BhDS5mtk7vU=
+
+Name: META-INF/maven/org.codehaus.groovy.eclipse/org.codehaus.groovy/p
+ om.properties
+SHA-256-Digest: 9BM1fsIiXoarf7zK+XaCveZq6gVt5q8tRQpHrl1ZJ0k=
+
+Name: plugin_dsld_support/dsld/listenerList.dsld
+SHA-256-Digest: U3JTsknNmDGCHysEK+85ghzRxHM/B66FibjoOTJvKoI=
+
+Name: lib/bsf-2.4.0.jar
+SHA-256-Digest: +HN3PeuRwaHBIVD2zbE7ii4bSWp1rJA8S7+hA7Njp8c=
+
+Name: lib/ivy-2.4.0.jar
+SHA-256-Digest: zoHLI0QGsJO1uN6fb1sqUO0IJNaiNYkTU+jT6UGlOXA=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: UxorN+efYuBq+P+KF0Y4vbQhkGopDKu3w/i1iV7mIIw=
+
+Name: lib/servlet-api-2.4.jar
+SHA-256-Digest: JD+LVXf1m//dMP0VzCX8EwBKawh3OmHMMuSHJsNjO3w=
+
+Name: about_files/asl2-license.txt
+SHA-256-Digest: 4OrWFMOM7pA2RivJoNuhj2l4EDMyuCx7nGHzSjNgrUY=
+
+Name: plugin_dsld_support/dsld/DSLD_meta_script.dsld
+SHA-256-Digest: EnExfsOGSk1FmelyZZZvj3HXNgKLQL9HZKL+SoxCWp0=
+
+Name: lib/bsf-2.4.0-sources.jar
+SHA-256-Digest: r1LpsAumcxXioII+7/PfW8ujTMBRSQ/HC5wz5g5AKIc=
+
+Name: lib/groovy-all-2.4.13.jar
+SHA-256-Digest: jX3cCiEKjnR8Ih/1+BjayAQC06l1kttrA7ccbEo+CbA=
+
+Name: conf/groovy-starter.conf
+SHA-256-Digest: /AbYI6Elh8PNOmNJPs8OZB8Hjqvus+sXvoaO15W6nkg=
+
+Name: plugin_dsld_support/dsld/swing_builder.dsld
+SHA-256-Digest: ocSK7CSbFdhGoHNOQdqNZALuolH5pZz1AlGl3KPW7TM=
+
+Name: plugin_dsld_support/dsld/vetoable.dsld
+SHA-256-Digest: /DT9y02nPQoL5+0wAYi54A/OGoyTVlP2/CiZCE6dvRw=
+
+Name: eclipse-trace.jar
+SHA-256-Digest: Gk/UzoH6L1obTjoTh2sbtxYM1WTvnJog5b7ARxMSxNY=
+
+Name: META-INF/maven/org.codehaus.groovy.eclipse/org.codehaus.groovy/p
+ om.xml
+SHA-256-Digest: l/7ikcc3Lk6U+R5s/uXFCmdbCXtxLA4znW2Fh7imshw=
+
+Name: about_files/antlr2-license.txt
+SHA-256-Digest: BdzbnBAis17vahxXDhnWN66/9225O8glCpswUm+q85A=
+
+Name: META-INF/p2.inf
+SHA-256-Digest: 2NP7XsC8qGor8hiyVj91OsCNMSrGuRbo9jbdKRFeICw=
+
+Name: plugin_dsld_support/dsld/groovy18.dsld
+SHA-256-Digest: hIait9PCSiSaiX48zyX+LyeHxipb5CjSYvDtHx7yX+I=
+
+Name: plugin_dsld_support/readme.txt
+SHA-256-Digest: nFFyosMdb/QzvH0/T3QxWOeOuGQLKTO0z9347f8A/vI=
+

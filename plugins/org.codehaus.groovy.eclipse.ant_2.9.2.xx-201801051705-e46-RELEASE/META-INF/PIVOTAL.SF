@@ -1,0 +1,26 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: +Elz6xgMWjIkF1w8vM354JFqwA3MW
+ TcYEiyOsMjiNXo=
+SHA-256-Digest-Manifest: zGP5MLK154Q5XOoyge23N8BKu60+4abqOFkyOQQm6aU=
+Created-By: 1.8.0_144 (Oracle Corporation)
+
+Name: dummy
+SHA-256-Digest: F3n0OJADcBN3wxHs3COQxvvaG+htGjVOaLTcqDoOP4E=
+
+Name: about.html
+SHA-256-Digest: sgprG/uS3i5o2f6uN0qDXxVd4sFo2GlZrNr+9ymaT0E=
+
+Name: plugin.xml
+SHA-256-Digest: +lS6Tt2zkyC6aW6VUzlrHmcKNZ30lyxf6cy5jONHlno=
+
+Name: META-INF/maven/org.codehaus.groovy.eclipse/org.codehaus.groovy.e
+ clipse.ant/pom.properties
+SHA-256-Digest: hZk/1G7VxMz9ff5qjf1ua5E1g8vPmAp3bV4HcJG7Ahc=
+
+Name: META-INF/maven/org.codehaus.groovy.eclipse/org.codehaus.groovy.e
+ clipse.ant/pom.xml
+SHA-256-Digest: iSw26od0nRDEyE+t0jI0w6Fx3fgPMf0B+8AjyJgGJxU=
+
+Name: groovyAntEclipse.jar
+SHA-256-Digest: xXVsRvDJq4d2vp247HksibsnzhlGsc6xNfffTmm6Q7I=
+
